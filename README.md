@@ -50,21 +50,6 @@
 <br/>
 <br/>
 
-<h2 align="center">📊 GitHub Stats</h2>
-
-<div align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=yogaprtamaa&show_icons=true&theme=tokyonight"
-    height="165"
-  />
-  <img
-    src="https://github-readme-streak-stats.herokuapp.com/?user=yogaprtamaa&theme=tokyonight"
-    height="165"
-  />
-</div>
-
-<br/>
-<br/>
 
 <div align="center">
   <small>
