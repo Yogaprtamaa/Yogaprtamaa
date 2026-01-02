@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Yogaprtamaa&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=yogaprtamaa&label=Profile%20views&color=0e75b6&style=flat" />
 </p>
 
 <h1 align="center">Hi, I'm Yoga Pratama 👋</h1>
@@ -31,11 +31,11 @@
 
 ## 📊 GitHub Stats
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Yogaprtamaa&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=yogaprtamaa&show_icons=true&theme=tokyonight" />
 </p>
 
 <p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Yogaprtamaa&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yogaprtamaa&theme=tokyonight" />
 </p>
 
 ---
