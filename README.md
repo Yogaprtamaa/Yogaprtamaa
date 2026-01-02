@@ -1,79 +1,78 @@
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=yogaprtamaa&label=Profile%20Views&color=0e75b6&style=flat-square" alt="views" />
-  
-  <br />
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="600" height="auto"/>
+
   <br />
 
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=435&lines=Hi,+I'm+Yoga+Pratama+👋;Informatics+Student+👨‍🎓;Full+Stack+Developer+🚀;Love+Coffee+and+Code+☕" alt="Typing SVG" />
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=38BDF8&center=true&vCenter=true&width=435&lines=Hello,+I'm+Yoga+Pratama!+%F0%9F%91%8B;Full+Stack+Developer+%F0%9F%9A%80;Informatics+Student+%F0%9F%8E%93;Based+in+Indonesia+%F0%9F%87%AE%F0%9F%87%B9" alt="Typing SVG" />
+  </a>
 
-  <p align="center">
-    <a href="https://yogaportofolio.netlify.app/">
-        <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
-    </a>
-    <a href="mailto:prtmyog17@gmail.com">
-        <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-    </a>
-    <a href="https://linkedin.com/in/yogaprtamaa">
-        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-    </a>
+  <p>
+    <b>Building digital products with code and creativity.</b>
   </p>
-</div>
+  
+  <br/>
 
----
-
-<table>
-  <tr>
-    <td valign="top" width="50%">
-      <h3>👨‍💻 About Me</h3>
-      <ul>
-        <li>🎓 Informatics Student from <b>Indonesia</b> 🇮🇩</li>
-        <li>💻 Working on <b>Web Development</b> (Frontend & Backend)</li>
-        <li>🌱 Currently deepening knowledge in <b>Full Stack</b></li>
-        <li>⚡ Fun fact: I can center a div (sometimes)</li>
-        <li>🎯 Goal: <b>Senior Backend Engineer</b></li>
-      </ul>
-      <br/>
-      <h3>🎧 Vibe Check</h3>
-      <a href="https://spotify-github-profile.vercel.app/api/view?uid=YOUR_SPOTIFY_USER_ID&cover_image=true&theme=novatony&show_offline=true&background_color=121212&interchange=true">
-        <img src="https://spotify-github-profile.vercel.app/api/view?uid=YOUR_SPOTIFY_USER_ID&cover_image=true&theme=novatony&show_offline=true&background_color=121212&interchange=true" width="100%" alt="Spotify Playing" />
-      </a>
-    </td>
-    <td valign="top" width="50%">
-      <h3>🛠 Tech Stack</h3>
-      <div align="center">
-        <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind" />
-        <br/>
-        <img src="https://skillicons.dev/icons?i=php,laravel,nodejs,express,mysql,postgres" />
-        <br/>
-        <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma,docker" />
-      </div>
-    </td>
-  </tr>
-</table>
-
----
-
-<h3 align="center">📊 GitHub Analytics</h3>
-
-<div align="center">
-  <a href="https://github.com/yogaprtamaa">
-  <img src="https://github-readme-stats.vercel.app/api?username=yogaprtamaa&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000" height="160" alt="stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yogaprtamaa&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000" height="160" alt="languages" />
+  <a href="https://yogaportofolio.netlify.app/">
+    <img src="https://img.shields.io/badge/Portfolio-Visit%20Site-black?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="mailto:prtmyog17@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Send%20Message-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="https://linkedin.com/in/yogaprtamaa">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </div>
 
-<br/>
+<br /> 
+<hr />
+<br />
+
+<h2 align="center">👨‍💻 About Me</h2>
+
+<p align="center">
+  I am an <b>Informatics Student</b> passionate about building accessible and performant web applications. <br>
+  Currently focusing on the <b>Full Stack</b> ecosystem to bridge the gap between backend logic and frontend experience.
+</p>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yogaprtamaa&theme=tokyonight&hide_border=true&background=0D1117" alt="streak" />
+  ⚡ <b>Current Focus:</b> Mastering Next.js & Cloud Architecture <br>
+  🌏 <b>Location:</b> Indonesia <br>
+  🤝 <b>Open for:</b> Collaboration & Freelance Projects
 </div>
 
----
+<br />
+
+<h2 align="center">🛠️ Technologies</h2>
 
 <div align="center">
-  <br/>
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
-  <br/>
-  <br/>
-  <small>Made with ❤️ by Yoga Pratama</small>
+  <table>
+    <tr>
+      <td align="center" width="120">
+        <img src="https://skillicons.dev/icons?i=js,ts,php" width="100" />
+        <br><b>Languages</b>
+      </td>
+      <td align="center" width="120">
+        <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap" width="130" />
+        <br><b>Frontend</b>
+      </td>
+      <td align="center" width="120">
+        <img src="https://skillicons.dev/icons?i=nodejs,express,laravel,mysql" width="130" />
+        <br><b>Backend</b>
+      </td>
+      <td align="center" width="120">
+        <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" width="130" />
+        <br><b>Tools</b>
+      </td>
+    </tr>
+  </table>
+</div>
+
+<br />
+<br />
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0e75b6&height=100&section=footer" width="100%" />
 </div>
