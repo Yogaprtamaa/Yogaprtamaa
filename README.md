@@ -1,37 +1,45 @@
 <div align="center">
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,25,30&text=Yoga%20Pratama&fontSize=30&fontAlign=50&fontAlignY=40&desc=Informatics%20Student%20%26%20Web%20Developer&descSize=14&descAlign=50&descAlignY=62&height=220&animation=fadeIn" width="100%" alt="header" />
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=1000&color=3B82F6&center=true&vCenter=true&width=500&lines=Hi,+I'm+Yoga+Pratama;Informatics+Student;Full+Stack+Developer" alt="Typing SVG" />
+  </a>
 
-  <br />
+  <br/>
 
   <p>
-    Building ideas into reality with code. <br>
-    Based in <b>Indonesia</b> 🇮🇩
+    Building <b>scalable web applications</b> with modern technologies.<br>
+    Based in Indonesia 🇮🇩
   </p>
 
-  <br />
+  <p>
+    <a href="https://yogaportofolio.netlify.app/" target="_blank">
+      <img src="https://img.shields.io/badge/Portfolio-Visit_Site-2563EB?style=for-the-badge&logo=vercel&logoColor=white" />
+    </a>
+    <a href="mailto:prtmyog17@gmail.com" target="_blank">
+      <img src="https://img.shields.io/badge/Email-Contact_Me-DC2626?style=for-the-badge&logo=gmail&logoColor=white" />
+    </a>
+    <a href="https://linkedin.com/in/yogaprtamaa" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+    </a>
+  </p>
 
-  <h3>— Tech Stack —</h3>
-  <br />
-  <img src="https://skillicons.dev/icons?i=html,css,js,nextjs,nodejs,php,laravel,mysql,git,vscode&perline=10" />
+</div>
 
-  <br />
-  <br />
-  <br />
+<br/>
 
-  <a href="https://yogaportofolio.netlify.app/">
-    <img src="https://img.shields.io/badge/Portfolio-181717?style=for-the-badge&logo=vercel&logoColor=white" />
-  </a>
-  &nbsp;
-  <a href="mailto:prtmyog17@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  &nbsp;
-  <a href="https://linkedin.com/in/yogaprtamaa">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-  <br />
-  <br />
-  
+<br/>
+
+<h3 align="center">💻 Tech Stack</h3>
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=nextjs,react,tailwind,nodejs,express,mysql,php,laravel,git,vscode&theme=dark" />
+</div>
+
+<br/>
+<br/>
+
+<div align="center">
+  <small>Open for collaboration & opportunities.</small>
 </div>
