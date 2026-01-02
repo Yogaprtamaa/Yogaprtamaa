@@ -12,7 +12,7 @@
 
   <p align="center">
     🚀 Building <b>scalable & maintainable web applications</b><br/>
-    💡 Focused on <b>Full Stack & Backend Development</b><br/>
+    💡 Focused on <b>Full Stack & FrontEnd Development</b><br/>
     📍 Based in Indonesia 🇮🇩
   </p>
 
