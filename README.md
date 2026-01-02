@@ -1,75 +1,79 @@
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=yogaprtamaa&label=Profile%20views&color=0e75b6&style=flat" alt="yoga-viewers" />
-</div>
+  <img src="https://komarev.com/ghpvc/?username=yogaprtamaa&label=Profile%20Views&color=0e75b6&style=flat-square" alt="views" />
+  
+  <br />
+  <br />
 
-<div align="center">
-  <h1 align="center">Hi, I'm Yoga Pratama 👋</h1>
-  
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=3F8CFF&center=true&vCenter=true&width=435&lines=Informatics+Student;Web+Developer+(Frontend+%26+Backend);Full+Stack+Enthusiast;From+Indonesia+%F0%9F%87%AE%F0%9F%87%B9" alt="Typing SVG" />
-  </a>
-  
-  <p>
-     <b>Informatics Student • Web Developer • Tech Enthusiast</b>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=435&lines=Hi,+I'm+Yoga+Pratama+👋;Informatics+Student+👨‍🎓;Full+Stack+Developer+🚀;Love+Coffee+and+Code+☕" alt="Typing SVG" />
+
+  <p align="center">
+    <a href="https://yogaportofolio.netlify.app/">
+        <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+    </a>
+    <a href="mailto:prtmyog17@gmail.com">
+        <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    </a>
+    <a href="https://linkedin.com/in/yogaprtamaa">
+        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    </a>
   </p>
+</div>
 
-  <a href="https://yogaportofolio.netlify.app/">
-    <img src="https://img.shields.io/badge/Portfolio-Visit%20My%20Site-blue?style=for-the-badge&logo=google-chrome" alt="Portfolio">
+---
+
+<table>
+  <tr>
+    <td valign="top" width="50%">
+      <h3>👨‍💻 About Me</h3>
+      <ul>
+        <li>🎓 Informatics Student from <b>Indonesia</b> 🇮🇩</li>
+        <li>💻 Working on <b>Web Development</b> (Frontend & Backend)</li>
+        <li>🌱 Currently deepening knowledge in <b>Full Stack</b></li>
+        <li>⚡ Fun fact: I can center a div (sometimes)</li>
+        <li>🎯 Goal: <b>Senior Backend Engineer</b></li>
+      </ul>
+      <br/>
+      <h3>🎧 Vibe Check</h3>
+      <a href="https://spotify-github-profile.vercel.app/api/view?uid=YOUR_SPOTIFY_USER_ID&cover_image=true&theme=novatony&show_offline=true&background_color=121212&interchange=true">
+        <img src="https://spotify-github-profile.vercel.app/api/view?uid=YOUR_SPOTIFY_USER_ID&cover_image=true&theme=novatony&show_offline=true&background_color=121212&interchange=true" width="100%" alt="Spotify Playing" />
+      </a>
+    </td>
+    <td valign="top" width="50%">
+      <h3>🛠 Tech Stack</h3>
+      <div align="center">
+        <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind" />
+        <br/>
+        <img src="https://skillicons.dev/icons?i=php,laravel,nodejs,express,mysql,postgres" />
+        <br/>
+        <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma,docker" />
+      </div>
+    </td>
+  </tr>
+</table>
+
+---
+
+<h3 align="center">📊 GitHub Analytics</h3>
+
+<div align="center">
+  <a href="https://github.com/yogaprtamaa">
+  <img src="https://github-readme-stats.vercel.app/api?username=yogaprtamaa&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000" height="160" alt="stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yogaprtamaa&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000" height="160" alt="languages" />
   </a>
-  <a href="mailto:prtmyog17@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact%20Me-red?style=for-the-badge&logo=gmail" alt="Email">
-  </a>
 </div>
 
----
-
-### 🧐 About Me
-
-- 🎓 I'm currently an **Informatics Student**.
-- 💻 Focusing on **Web Development (Frontend & Backend)**.
-- 🌱 Currently learning **Next.js & Cloud Architecture**.
-- 🎯 Goal: To become a professional **Full Stack / Backend Engineer**.
-- 🇮🇩 Based in **Indonesia**.
-
----
-
-### 🎧 Spotify Playing
+<br/>
 
 <div align="center">
-  <a href="https://spotify-github-profile.vercel.app/api/view?uid=UBAR_USER_ID_SPOTIFY&cover_image=true&theme=novatony&show_offline=true&background_color=121212&interchange=true">
-    <img src="https://spotify-github-profile.vercel.app/api/view?uid=UBAH_USER_ID_SPOTIFY&cover_image=true&theme=novatony&show_offline=true&background_color=121212&interchange=true" alt="Spotify Playing" width="350" />
-  </a>
-</div>
-
----
-
-### 🧰 Tech Stack
-
-<div align="center">
-
-| **Frontend** | **Backend** | **Tools & Others** |
-|:---:|:---:|:---:|
-| <img src="https://skillicons.dev/icons?i=html,css,js,nextjs" width="150" /> | <img src="https://skillicons.dev/icons?i=php,nodejs,laravel,mysql" width="150" /> | <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" width="150" /> |
-
-</div>
-
----
-
-### 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yogaprtamaa&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yogaprtamaa&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" height="150" alt="languages graph" />
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yogaprtamaa&theme=tokyonight&hide_border=true&background=0D1117" alt="streak graph" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yogaprtamaa&theme=tokyonight&hide_border=true&background=0D1117" alt="streak" />
 </div>
 
 ---
 
 <div align="center">
-  <small>© 2024 Yoga Pratama. Built with ❤️</small>
+  <br/>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+  <br/>
+  <br/>
+  <small>Made with ❤️ by Yoga Pratama</small>
 </div>
