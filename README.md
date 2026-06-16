@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- NAME BANNER -->
-<img src="https://readme-typing-svg.demolab.com?font=Space+Mono&size=28&pause=1000&color=000000&background=FFE500&center=true&vCenter=true&width=540&height=70&lines=YOGA+PRATAMA;FULL+STACK+DEVELOPER;NGODING+SAMBIL+NGOPI+%E2%98%95;BUG+IS+MY+CARDIO+%F0%9F%90%9B" alt="typing" />
+<img src="https://readme-typing-svg.demolab.com?font=Space+Mono&size=28&pause=1000&color=000000&background=FFE500&center=true&vCenter=true&width=560&height=70&lines=YOGA+PRATAMA;FULL+STACK+DEVELOPER;BUILDING+FOR+THE+WEB" alt="typing" />
 
 </div>
 
@@ -9,26 +9,21 @@
 
 ```ts
 const yoga = {
-  role     : "Full Stack Developer",
-  stack    : ["Next.js", "React", "Laravel", "Node.js", "MySQL"],
-  based    : "Indonesia 🇮🇩",
-  open     : ["internship", "collaboration"],
-  fuel     : "kopi ☕ + niat 99%",
-  bugStatus: "It's not a bug, it's a feature 😎",
+  role  : "Full Stack Developer",
+  stack : ["Next.js", "React", "Laravel", "Node.js", "MySQL"],
+  based : "Indonesia 🇮🇩",
+  open  : ["internship", "collaboration"],
 };
-
-// warning: jangan di-deploy hari Jumat sore
 ```
 
 ---
 
-## ▌WHOAMI
+## ▌ABOUT
 
-- 🧠 Lagi nge-`build`, bukan nge-`break` (kadang dua-duanya barengan).
-- 🔧 Frontend rapi, backend aman — `console.log("masih idup kok")`.
-- 🐛 Hobi: nyari bug yang gue ciptain sendiri.
-- 🚀 Goal: ship to prod tanpa `git push --force` ke `main`.
-- ☕ Status: `while (alive) { code(); coffee(); }`
+Full Stack Developer focused on building clean, scalable, and maintainable
+web applications. Experienced across the frontend and backend, with a strong
+emphasis on best practices, performance, and writing code that is easy to
+maintain over time.
 
 ---
 
@@ -63,15 +58,13 @@ const yoga = {
 
 ---
 
-## ▌🐍 THE SNAKE EATS MY COMMITS
-
-> Ular jahat lagi makanin contribution gue. Doain biar kenyang biar gue bisa istirahat.
+## ▌CONTRIBUTION SNAKE
 
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yogaprtamaa/yogaprtamaa/output/github-contribution-grid-snake-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/yogaprtamaa/yogaprtamaa/output/github-contribution-grid-snake.svg" />
-    <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/yogaprtamaa/yogaprtamaa/output/github-contribution-grid-snake.svg" />
+    <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/yogaprtamaa/yogaprtamaa/output/github-contribution-grid-snake.svg" />
   </picture>
 </div>
 
@@ -80,5 +73,5 @@ const yoga = {
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=yogaprtamaa&style=for-the-badge&color=FFE500&label=VIEWS&labelColor=000000" />
   <br/>
-  <sub><b>OPEN TO INTERNSHIP & COLLAB 🇮🇩 — kuy ngopi sambil ngoding ☕</b></sub>
+  <sub><b>OPEN TO INTERNSHIP & COLLABORATION 🇮🇩</b></sub>
 </div>
